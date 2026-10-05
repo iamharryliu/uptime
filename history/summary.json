@@ -113,20 +113,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/staging-vb-express.fly.dev.ico",
     "slug": "staging-service-manager",
     "status": "up",
-    "uptime": "99.67%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.67%",
+    "uptimeYear": "100.00%",
     "time": 528,
     "timeDay": 99,
     "timeWeek": 116,
     "timeMonth": 111,
     "timeYear": 528,
-    "dailyMinutesDown": {
-      "2026-08-15": 49,
-      "2026-08-18": 350
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "staging-whiteboard",
@@ -332,19 +329,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/findme.harryliu.dev.ico",
     "slug": "production-findme",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "100.00%",
     "time": 264,
     "timeDay": 283,
     "timeWeek": 302,
     "timeMonth": 256,
     "timeYear": 264,
-    "dailyMinutesDown": {
-      "2026-07-12": 33
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "production-hearth",
@@ -352,20 +347,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/production-hearth.vercel.app.ico",
     "slug": "production-hearth",
     "status": "up",
-    "uptime": "99.59%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.40%",
-    "uptimeMonth": "98.94%",
-    "uptimeYear": "99.59%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 299,
     "timeDay": 222,
     "timeWeek": 355,
     "timeMonth": 302,
     "timeYear": 299,
-    "dailyMinutesDown": {
-      "2026-07-12": 33,
-      "2026-09-30": 464
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "production-service-manager",
@@ -373,20 +365,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.harryliu.dev.ico",
     "slug": "production-service-manager",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "96.08%",
-    "uptimeWeek": "99.44%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.93%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 541,
     "timeDay": 88,
     "timeWeek": 119,
     "timeMonth": 127,
     "timeYear": 541,
-    "dailyMinutesDown": {
-      "2026-07-12": 33,
-      "2026-10-05": 56
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "production-whiteboard",
@@ -394,19 +383,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/whiteboard.harryliu.dev.ico",
     "slug": "production-whiteboard",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "100.00%",
     "time": 257,
     "timeDay": 229,
     "timeWeek": 290,
     "timeMonth": 262,
     "timeYear": 257,
-    "dailyMinutesDown": {
-      "2026-07-12": 33
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "production-vb-manager-next-mobile",
@@ -414,19 +401,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/production-vb-manager-next-mobile.vercel.app.ico",
     "slug": "production-vb-manager-next-mobile",
     "status": "up",
-    "uptime": "99.26%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.40%",
-    "uptimeMonth": "98.94%",
-    "uptimeYear": "99.26%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 266,
     "timeDay": 238,
     "timeWeek": 264,
     "timeMonth": 260,
     "timeYear": 266,
-    "dailyMinutesDown": {
-      "2026-09-30": 464
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "production-docs",
