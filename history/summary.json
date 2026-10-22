@@ -5,17 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/staging-docs-md.pages.dev.ico",
     "slug": "staging-docs",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.63%",
     "time": 115,
     "timeDay": 125,
     "timeWeek": 89,
     "timeMonth": 115,
     "timeYear": 115,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-14": 132
+    }
   },
   {
     "name": "staging-context",
@@ -81,17 +83,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/staging-cloud-8-skate-react.pages.dev.ico",
     "slug": "staging-cloud-8-skate",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.63%",
     "time": 115,
     "timeDay": 167,
     "timeWeek": 115,
     "timeMonth": 115,
     "timeYear": 115,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-14": 132
+    }
   },
   {
     "name": "staging-harryliu-dev",
@@ -99,19 +103,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/staging-harryliu-dev-react.pages.dev.ico",
     "slug": "staging-harryliu-dev",
     "status": "up",
-    "uptime": "99.63%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "99.63%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 172,
     "timeDay": 95,
     "timeWeek": 96,
     "timeMonth": 172,
     "timeYear": 172,
-    "dailyMinutesDown": {
-      "2026-10-14": 131
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "staging-harryliu-dev-resume",
@@ -119,19 +121,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/staging-harryliu-dev-react.pages.dev.ico",
     "slug": "staging-harryliu-dev-resume",
     "status": "up",
-    "uptime": "99.63%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "99.63%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 88,
     "timeDay": 96,
     "timeWeek": 62,
     "timeMonth": 88,
     "timeYear": 88,
-    "dailyMinutesDown": {
-      "2026-10-14": 131
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "staging-findme",
@@ -233,17 +233,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/staging-waiting-games.pages.dev.ico",
     "slug": "staging-waiting-games",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeMonth": "99.24%",
+    "uptimeYear": "99.24%",
     "time": 88,
     "timeDay": 122,
     "timeWeek": 87,
     "timeMonth": 88,
     "timeYear": 88,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-14": 131
+    }
   },
   {
     "name": "staging-whiteboard",
@@ -522,8 +524,8 @@
     "slug": "production-hearth",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 302,
@@ -531,7 +533,9 @@
     "timeWeek": 329,
     "timeMonth": 319,
     "timeYear": 302,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-22": 1
+    }
   },
   {
     "name": "production-service-manager",
@@ -649,11 +653,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/balloono.harryliu.dev.ico",
     "slug": "production-balloono",
     "status": "up",
-    "uptime": "95.28%",
+    "uptime": "95.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.28%",
-    "uptimeYear": "95.28%",
+    "uptimeMonth": "95.29%",
+    "uptimeYear": "95.29%",
     "time": 311,
     "timeDay": 199,
     "timeWeek": 292,
@@ -798,11 +802,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bookmarks.harryliu.dev.ico",
     "slug": "production-bookmarks",
     "status": "up",
-    "uptime": "82.55%",
+    "uptime": "82.56%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "82.55%",
-    "uptimeMonth": "82.55%",
-    "uptimeYear": "82.55%",
+    "uptimeWeek": "82.56%",
+    "uptimeMonth": "82.56%",
+    "uptimeYear": "82.56%",
     "time": 187,
     "timeDay": 180,
     "timeWeek": 187,
