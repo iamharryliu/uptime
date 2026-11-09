@@ -548,8 +548,8 @@
     "slug": "production-observability-vm",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 492,
@@ -558,7 +558,7 @@
     "timeMonth": 492,
     "timeYear": 492,
     "dailyMinutesDown": {
-      "2026-11-09": 0
+      "2026-11-09": 1
     }
   },
   {
