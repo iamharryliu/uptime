@@ -1,7 +1,7 @@
 url: https://loki.harryliu.dev/health
-status: down
-code: 503
-responseTime: 497
-lastUpdated: 2026-11-18T07:42:43.635Z
+status: up
+code: 200
+responseTime: 391
+lastUpdated: 2026-11-18T21:50:40.014Z
 startTime: 2026-09-27T21:15:20.392Z
 generator: Upptime <https://github.com/upptime/upptime>
