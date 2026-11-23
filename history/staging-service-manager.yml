@@ -1,7 +1,7 @@
 url: https://staging-api.vigilant-broccoli.app/
-status: down
-code: 525
-responseTime: 238
-lastUpdated: 2026-11-23T00:46:23.543Z
+status: up
+code: 200
+responseTime: 98
+lastUpdated: 2026-11-23T07:53:27.764Z
 startTime: 2026-07-13T08:19:17.821Z
 generator: Upptime <https://github.com/upptime/upptime>
